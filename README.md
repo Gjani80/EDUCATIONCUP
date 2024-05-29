@@ -30,7 +30,7 @@
         <br>
         <ul class="result-box"
         <br>
-            <li> <a href="https://rj-10-result.indiaresults.com/rj/bser/class-10-result-2024/mquery.htm">10th Result RBSE 2024</a> </li>
+            <li> <a href="https://rajasthan-10th-result.indiaresults.com/rj/bser/class-10-result-2024/mquery.htm">10th Result RBSE 2024</a> </li>
             <br>
             <li>
             <a href="https://rj-12-arts-result.indiaresults.com/rj/bser/class-12-arts-result-2024/mquery.htm">12th Arts Result RBSE 2024</a></li>
