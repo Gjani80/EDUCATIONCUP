@@ -29,14 +29,9 @@
         <ul class="result-box">
         <br>
             <li> <a href="http://rajshaladarpan.nic.in/Class5th_8thExam/Home/HomePage.aspx#">5th & 8th Result 2024</a> </li>
-            <br>
             <li> <a href="https://rajasthan-10th-result.indiaresults.com/rj/bser/class-10-result-2024/mquery.htm">10th Result RBSE 2024</a> </li>
-            <br>
-            <li>
-            <a href="https://rj-12-arts-result.indiaresults.com/rj/bser/class-12-arts-result-2024/mquery.htm">12th Arts Result RBSE 2024</a></li>
-            <br>
+            <li> <a href="https://rj-12-arts-result.indiaresults.com/rj/bser/class-12-arts-result-2024/mquery.htm">12th Arts Result RBSE 2024</a></li>
             <li> <a href="https://rj-12-science-result.indiaresults.com/rj/bser/class-12-science-result-2024/mquery.htm">12th Science Result RBSE 2024</a></li>
-            <br>
             <li> <a href="https://rj-12-commerce-result.indiaresults.com/rj/bser/class-12-commerce-result-2024/mquery.htm">12th Commerce Result RBSE 2024</a></li>
         </ul>
     </div>
@@ -72,9 +67,7 @@
     <div class="foot-panel">
         <br>
         <h4>NO.1 Education Portal</h4>
-        <br>
         ALL Notification ON
-        <br>
         Instagram
         Facebook
         You Tube
