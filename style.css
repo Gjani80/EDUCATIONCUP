@@ -9,7 +9,7 @@
     width: 1300px;
     text-align: center;
     color: black;
-    margin-top: 7px;
+    margin-top: 5px;
     font-size: 25px;
 }
 .navbar {
@@ -51,7 +51,7 @@
     font-weight: bold;
 }
 .foot-panel {
-    margin-top: 200px;
+    margin-bottom: 5px;
     height: 100px;
     width: 1300px;
     background-color: rgba(204, 183, 220, 0.858);
