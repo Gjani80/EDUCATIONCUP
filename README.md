@@ -59,6 +59,17 @@
             <a href="reetlevel2.syllabus.pdf" download class="download-btn">download L2</a>
         </ul>
     </div>
+    <div class="box4 box">
+        <h2>Latest Job</h2>
+        <br>
+        <ul class="result-box">
+            <li> <a href="https://icf.indianrailways.gov.in/">Railway ICF Apprentice Online Form 2024</a></li>
+            <br>
+            <li> <a href="https://ugcnet.ntaonline.in/">NTA UGC NET JUNE Adit Form 2024</a></li>
+            <br>
+            <li> <a href="https://rectt.bsf.gov.in/">BSF SI ASI HC Constable Form 2024</a></li>
+        </ul>
+    </div>
 </div>
 <footer>
     <div class="foot-panel">
