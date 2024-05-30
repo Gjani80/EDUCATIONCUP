@@ -60,7 +60,7 @@
         </ul>
     </div>
     <div class="box4 box">
-        <h2>Latest Job</h2>
+        <h2>LATEST JOB</h2>
         <br>
         <ul class="result-box">
             <li> <a href="https://icf.indianrailways.gov.in/">Railway ICF Apprentice Online Form 2024</a></li>
