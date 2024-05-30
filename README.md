@@ -26,7 +26,7 @@
     <div class="box1 box">
         <h2>RESULT</h2>
         <br>
-        <ul class="result-box"
+        <ul> class="result-box"
         <br>
             <li> <a href="http://rajshaladarpan.nic.in/Class5th_8thExam/Home/HomePage.aspx#">5th & 8th Result 2024</a> </li>
             <br>
