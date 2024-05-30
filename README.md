@@ -10,7 +10,6 @@
     <div class="title">
         <br>
         <h2>EDUCATION CUP</h2>
-            EDUCATION.COM
     </div>
 <header>
     <div class="navbar">
@@ -30,6 +29,8 @@
         <br>
         <ul class="result-box"
         <br>
+            <li> <a href="http://rajshaladarpan.nic.in/Class5th_8thExam/Home/HomePage.aspx#">5th & 8th Result 2024</a> </li>
+            <br>
             <li> <a href="https://rajasthan-10th-result.indiaresults.com/rj/bser/class-10-result-2024/mquery.htm">10th Result RBSE 2024</a> </li>
             <br>
             <li>
@@ -78,7 +79,6 @@
         Instagram
         Facebook
         You Tube
-        </div>
     </div>
 </footer>
 </body>
