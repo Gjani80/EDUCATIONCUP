@@ -12,7 +12,7 @@
     </div>
 <header>
     <div class="navbar">
-        <p> <a href="https://github.com/Gjani80/EDUCATIONCUP.wiki.git">HOME</p>
+        <p>HOME</p>
         <p>SYLLBUS</p>
         <p>ADMIT CARD</p>
         <p>RESULT</p>
