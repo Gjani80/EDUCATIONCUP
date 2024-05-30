@@ -40,9 +40,7 @@
         <br>
         <ul class="result-box">
             <li> <a href="https://cdn.digialm.com/EForms/configuredHtml/1258/86382/login.html">IB ACIO II 2024</a></li>
-            <br>
             <li> <a href="https://exams.nta.ac.in/JIPMAT/">JIPMAT 2024</a></li>
-            <br>
             <LI> <a href="https://ssc.gov.in/">SSC Junior Engineer JE Paper 1 2024</a></LI>
         </ul>
     </div>
