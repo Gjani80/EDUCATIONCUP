@@ -63,7 +63,7 @@
         <h2>LATEST JOB</h2>
         <br>
         <ul class="result-box">
-            <li> <a href="https://icf.indianrailways.gov.in/">Railway ICF Apprentice Online Form 2024</a></li>
+            <li> <a href="https://predeledraj2024.in/vcnt.php">Pre D.El.Ed. Examination Form 2024</a></li>
             <br>
             <li> <a href="https://ugcnet.ntaonline.in/">NTA UGC NET JUNE Adit Form 2024</a></li>
             <br>
