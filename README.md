@@ -27,6 +27,7 @@
         <h2>RESULT</h2>
         <br>
         <ul class="result-box">
+             <li> <a href="https://rajshaladarpan.nic.in/RajEExam/DElEd/Home/LoginPage.aspx">D.El.Ed 1st year Result 2024</a> </li>
              <li> <a href="https://neet.ntaonline.in/frontend/web/scorecard/index">NEET UG Result 2024</a> </li>
              <li> <a href="https://drive.google.com/file/d/1iIWNoNwrLXVfH8ay3SpZfwi-yVXfn3ER/view?usp=drivesdk">Rajasthan Hostel Superintendent Grade-II </a> </li>
             <li> <a href="https://rajpsp.nic.in/Class5th_8thExam/Home/Result.aspx">5th & 8th Result 2024</a> </li>
