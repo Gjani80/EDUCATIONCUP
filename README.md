@@ -41,6 +41,7 @@
         <h2>ADMIT CARD</h2>
         <br>
         <ul class="result-box">
+            <li> <a href="https://rjpolice.cbt-exam.in/dac">Raj. Police Constable admit card 2023</a></li>
             <li> <a href="https://ptetvmou2024.com">PTET Admit card 2024</a></li>
             <li> <a href="https://exams.nta.ac.in/JIPMAT/">JIPMAT 2024</a></li>
             <LI> <a href="https://ssc.gov.in/">SSC Junior Engineer JE Paper 1 2024</a></LI>
