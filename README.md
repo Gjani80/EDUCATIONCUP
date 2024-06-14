@@ -46,12 +46,6 @@
             <li> <a href="https://ptetvmou2024.com">PTET Admit card 2024</a></li>
             <li> <a href="https://exams.nta.ac.in/JIPMAT/">JIPMAT 2024</a></li>
             <LI> <a href="https://ssc.gov.in/">SSC Junior Engineer JE Paper 1 2024</a></LI>
-            <li> <a href="https://results.cbse.nic.in/">CBSE Board Class 10th, 12th Supplementary Exam Time Table 2024</a> </li>
-<li> <a href="https://dfccil.com/">DFCCIL Various Post 2023 Final Result</a> </li>
-<li> <a href="https://www.newindia.co.in/">New India Assurance Assistant Tier II Result 2024</a> </li>
-<li> <a href="https://rsmssb.rajasthan.gov.in/Static/files/ANM_DV_11062024.pdf">RSMSSB ANM Result 2024</a> </li>
-<li> <a href="https://exams.nta.ac.in/NEET/">NTA NEET UG 2024 Result/Score card </a> </li>
-<li> <a href="https://joinindiancoastguard.cdac.in/cgcat/assets/img/news/selection/Asst_Comdt_Batch02-2024/FINAL_MERIT_LIST_ASST_COMDT_02-2024.pdf">Coast guard Assistant Commandant 02/2024 merit list</a> </li>
         </ul>
     </div>
     <div class="box3 box">
@@ -68,12 +62,6 @@
             <a href="reetlevel1.syllabus.pdf" download class="download-btn">download L1</a>
             <br>
             <a href="reetlevel2.syllabus.pdf" download class="download-btn">download L2</a>
-            <li> <a href="https://results.cbse.nic.in/">CBSE Board Class 10th, 12th Supplementary Exam Time Table 2024</a> </li>
-<li> <a href="https://dfccil.com/">DFCCIL Various Post 2023 Final Result</a> </li>
-<li> <a href="https://www.newindia.co.in/">New India Assurance Assistant Tier II Result 2024</a> </li>
-<li> <a href="https://rsmssb.rajasthan.gov.in/Static/files/ANM_DV_11062024.pdf">RSMSSB ANM Result 2024</a> </li>
-<li> <a href="https://exams.nta.ac.in/NEET/">NTA NEET UG 2024 Result/Score card </a> </li>
-<li> <a href="https://joinindiancoastguard.cdac.in/cgcat/assets/img/news/selection/Asst_Comdt_Batch02-2024/FINAL_MERIT_LIST_ASST_COMDT_02-2024.pdf">Coast guard Assistant Commandant 02/2024 merit list</a> </li>
         </ul>
     </div>
     <div class="box4 box">
@@ -85,12 +73,6 @@
             <li> <a href="https://ugcnet.ntaonline.in/">NTA UGC NET JUNE Adit Form 2024</a></li>
             <br>
             <li> <a href="https://rectt.bsf.gov.in/">BSF SI ASI HC Constable Form 2024</a></li>
-            <li> <a href="https://results.cbse.nic.in/">CBSE Board Class 10th, 12th Supplementary Exam Time Table 2024</a> </li>
-<li> <a href="https://dfccil.com/">DFCCIL Various Post 2023 Final Result</a> </li>
-<li> <a href="https://www.newindia.co.in/">New India Assurance Assistant Tier II Result 2024</a> </li>
-<li> <a href="https://rsmssb.rajasthan.gov.in/Static/files/ANM_DV_11062024.pdf">RSMSSB ANM Result 2024</a> </li>
-<li> <a href="https://exams.nta.ac.in/NEET/">NTA NEET UG 2024 Result/Score card </a> </li>
-<li> <a href="https://joinindiancoastguard.cdac.in/cgcat/assets/img/news/selection/Asst_Comdt_Batch02-2024/FINAL_MERIT_LIST_ASST_COMDT_02-2024.pdf">Coast guard Assistant Commandant 02/2024 merit list</a> </li>
         </ul>
     </div>
 </div>
