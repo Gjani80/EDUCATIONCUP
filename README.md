@@ -76,7 +76,12 @@
         </ul>
     </div>
 </div>
-    <div class="EDUCATIONCUP-Notice">
+    <div class="box5 box">
+    <div class="text2">
+        <h2>EDUCATION CUP</h2>
+    </div>
+    <br>
+    <br>
         Welcome to EDUCATION CUP, your one-stop destination for comprehensive government information! At Education Cup, we understand the importance of access to accurate and reliable information, especially when it comes to government services and policies. 
 
 Our website is dedicated to providing users with a user-friendly platform where they can easily navigate through a plethora of resources ranging from educational initiatives to governmental policies. Whether you're a student seeking information for a research project, a concerned citizen looking to stay updated on government programs, or a professional in need of reliable data, Education Cup is here to cater to your needs.
