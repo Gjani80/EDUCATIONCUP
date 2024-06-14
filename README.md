@@ -27,6 +27,7 @@
         <h2>RESULT</h2>
         <br>
         <ul class="result-box">
+             <li> <a href="https://drive.google.com/file/d/1orKqzfiXSwfbHFZgGKzIjuOXYA-PjqBc/view?usp=drivesdk">GNM Result 2024</a> </li>
              <li> <a href="https://rajshaladarpan.nic.in/RajEExam/DElEd/Home/LoginPage.aspx">D.El.Ed 1st year Result 2024</a> </li>
              <li> <a href="https://neet.ntaonline.in/frontend/web/scorecard/index">NEET UG Result 2024</a> </li>
             <li> <a href="https://rsmssb.rajasthan.gov.in/Static/files/Ldc_jr.Asst_15type%20-%20notification%20-ROLL%20No.pdf">RSMSSB Junior Assistant/ Clerk Grade 2 Result 2024</a> </li>
