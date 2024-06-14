@@ -40,12 +40,13 @@
     height: 100%;
     width: 100%;
     background-color: white;
+    height: 50rem;
 }
 .box {
     margin-top: 1rem;
     text-align: center;
     color: red;
-    height: 5rem;
+    height: 50rem;
 }
 .result-box {
     color: black;
