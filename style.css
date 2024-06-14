@@ -50,14 +50,18 @@
     color: black;
     font-weight: bold;
 }
-.EDUCATION-CUP-Notice {
-    margin: 5rem;
+.box5 {
+    margin: 2rem;
+    margin-left: 40rem;
+    height: 40rem;
+    width: 20rem;
+    text-align: center;
     background-color: white;
-    text-color: Black;
-    height: 10rem;
-    width: 5rem;
-    
+    color: black;
 }
+.text2 {
+    background-color: rgb(203, 4, 4);
+    color: white;
 .foot-panel {
     margin-bottom: .2rem;
     height: 100%;
