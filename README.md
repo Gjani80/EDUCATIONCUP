@@ -83,11 +83,7 @@
     <br>
     <br>
         Welcome to EDUCATION CUP, your one-stop destination for comprehensive government information! At Education Cup, we understand the importance of access to accurate and reliable information, especially when it comes to government services and policies. 
-
 Our website is dedicated to providing users with a user-friendly platform where they can easily navigate through a plethora of resources ranging from educational initiatives to governmental policies. Whether you're a student seeking information for a research project, a concerned citizen looking to stay updated on government programs, or a professional in need of reliable data, Education Cup is here to cater to your needs.
-
-With a commitment to transparency and accessibility, we strive to empower individuals with the knowledge they need to actively engage with their government and make informed decisions. Our team works tirelessly to ensure that the information provided on Education Cup is up-to-date, accurate, and presented in a way that is easy to understand.
-
 Explore Education Cup today and unlock a wealth of knowledge to help you navigate the intricacies of government initiatives and policies. Together, let's build a more informed and empowered society.
 </div>
 <footer>
