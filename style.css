@@ -51,10 +51,12 @@
     color: black;
     font-weight: bold;
 }
-.EDUCATION CUP Notice {
+.EDUCATION-CUP-Notice {
     margin: 5rem;
     background-color: white;
     text-color: Black;
+    height: 10rem;
+    width: 5rem;
     
 }
 .foot-panel {
