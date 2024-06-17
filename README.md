@@ -27,6 +27,7 @@
         <h2>RESULT</h2>
         <br>
         <ul class="result-box">
+             <li> <a href="https://ptetvmou2024.com/">PTET Answer key 2024</a> </li>
              <li> <a href="https://drive.google.com/file/d/1orKqzfiXSwfbHFZgGKzIjuOXYA-PjqBc/view?usp=drivesdk">GNM Result 2024</a> </li>
              <li> <a href="https://rajshaladarpan.nic.in/RajEExam/DElEd/Home/LoginPage.aspx">D.El.Ed 1st year Result 2024</a> </li>
              <li> <a href="https://neet.ntaonline.in/frontend/web/scorecard/index">NEET UG Result 2024</a> </li>
@@ -34,9 +35,6 @@
 <li> <a href="https://results.cbse.nic.in/">CBSE Board Class 10th, 12th Supplementary Exam Time Table 2024</a> </li>
 <li> <a href="https://dfccil.com/">DFCCIL Various Post 2023 Final Result</a> </li>
 <li> <a href="https://www.newindia.co.in/">New India Assurance Assistant Tier II Result 2024</a> </li>
-<li> <a href="https://rsmssb.rajasthan.gov.in/Static/files/ANM_DV_11062024.pdf">RSMSSB ANM Result 2024</a> </li>
-<li> <a href="https://exams.nta.ac.in/NEET/">NTA NEET UG 2024 Result/Score card </a> </li>
-<li> <a href="https://joinindiancoastguard.cdac.in/cgcat/assets/img/news/selection/Asst_Comdt_Batch02-2024/FINAL_MERIT_LIST_ASST_COMDT_02-2024.pdf">Coast guard Assistant Commandant 02/2024 merit list</a> </li>
         </ul>
     </div>
     <div class="box2 box">
