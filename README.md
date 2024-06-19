@@ -27,14 +27,13 @@
         <h2>RESULT</h2>
         <br>
         <ul class="result-box">
+             <li> <a href="https://online.vmou.ac.in/result.aspx?encparam=1O4is1QYeChmFHQ2el0FJXbmZP5Fb7AR5seqYyaYR3p2LradyfWUbhkxcs0GSLCu5ZhZ5HTdg6TioBfvpkNjedvvoEcNElcjRlgHrA18LGqFv7qVDVc2FY4PzChedaBsbq2fe+vd2LSiZHt2/G0G+LirZ9UWJ4RenPoML328/WPOIjv2/Lh1Pq7a3oOnY9Ghi/6mYMzAWC/GMqs3xULkZmg89w8aGrCwyYriY5afrZomyAV0PPNW9jIlGd0wpdzpviYV6Uu6WPIPz+i4SGWvRIekKpjHl7xi2M3c+6vQsZY=">VMOU B.A. 1st year result declared</a> </li>
              <li> <a href="https://rsmssb.rajasthan.gov.in/Static/files/REET_LEVEL1_FINALRECOMM18062024.pdf">REET L-1 Result</a> </li>
              <li> <a href="https://rajshaladarpan.nic.in/RajEExam/DElEd/Home/LoginPage.aspx">D.El.Ed 2nd year Result 2024</a> </li>
              <li> <a href="https://ptetvmou2024.com/">PTET Answer key 2024</a> </li>
              <li> <a href="https://drive.google.com/file/d/1orKqzfiXSwfbHFZgGKzIjuOXYA-PjqBc/view?usp=drivesdk">GNM Result 2024</a> </li>
              <li> <a href="https://rajshaladarpan.nic.in/RajEExam/DElEd/Home/LoginPage.aspx">D.El.Ed 1st year Result 2024</a> </li>
              <li> <a href="https://neet.ntaonline.in/frontend/web/scorecard/index">NEET UG Result 2024</a> </li>
-            <li> <a href="https://rsmssb.rajasthan.gov.in/Static/files/Ldc_jr.Asst_15type%20-%20notification%20-ROLL%20No.pdf">RSMSSB Junior Assistant/ Clerk Grade 2 Result 2024</a> </li>
-<li> <a href="https://results.cbse.nic.in/">CBSE Board Class 10th, 12th Supplementary Exam Time Table 2024</a> </li>
         </ul>
     </div>
     <div class="box2 box">
