@@ -50,6 +50,7 @@
         <h2>SYLLABUS</h2>
         <br>
         <ul class="result-box">
+            <li>VMOU KOTA July 2023(June2024) Time Table</li> 
             <li>Pre BSTC 2024</li>
             <a href="pre.bstc.syllabus.pdf" download class="download-btn">download</a>
             <br>
