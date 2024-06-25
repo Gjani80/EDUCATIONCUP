@@ -21,7 +21,7 @@
 <div class="sub-title">
     <h2>Welcome to</h2>
     <h2><marquee>NO.1 Education Portal</marquee></h2>
-    <h1><a href="https://predeledraj2024.in/err2.html">Pre D.El.Ed Admit card 2024</a> </h1>
+    <h1><a href="https://predeledraj2024.in/gEtAdMIt.php">Pre D.El.Ed Admit card 2024</a> </h1>
 </div>
 <div class="tab-section">
     <div class="box1 box">
@@ -41,7 +41,7 @@
         <h2>ADMIT CARD</h2>
         <br>
         <ul class="result-box">
-            <li> <a href="https://predeledraj2024.in/err2.html">Pre D.El.Ed Admit card 2024</a></li>
+            <li> <a href="https://predeledraj2024.in/gEtAdMIt.php">Pre D.El.Ed Admit card 2024</a></li>
             <li> <a href="https://rjpolice.cbt-exam.in/dac">Raj. Police Constable admit card 2023</a></li>
             <li> <a href="https://ptetvmou2024.com">PTET Admit card 2024</a></li>
             <li> <a href="https://exams.nta.ac.in/JIPMAT/">JIPMAT 2024</a></li>
