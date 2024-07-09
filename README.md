@@ -21,7 +21,7 @@
 <div class="sub-title">
     <h2>Welcome to</h2>
     <h2><marquee>NO.1 Education Portal</marquee></h2>
-    <h1><a href="https://predeledraj2024.in/gEtAdMIt.php">Pre D.El.Ed Admit card 2024</a> </h1>
+    <h1><a href="https://rajsmsa.nic.in/public/Marquee/04-07-2024-094842~SMSa%20interview.pdf">SMSA के राज्य, जिला और ब्लॉक स्तरीय पदों के लिए साक्षात्कार तिथि 24.07.2024 से 06.08.2024 की विज्ञप्ति</a> </h1>
 </div>
 <div class="tab-section">
     <div class="box1 box">
@@ -69,6 +69,7 @@
         <h2>LATEST JOB</h2>
         <br>
         <ul class="result-box">
+            <li> <a href="https://rajsmsa.nic.in/public/Marquee/04-07-2024-094842~SMSa%20interview.pdf">SMSA के राज्य, जिला और ब्लॉक स्तरीय पदों के लिए साक्षात्कार तिथि 24.07.2024 से 06.08.2024 की विज्ञप्ति</a></li>
             <li> <a href="https://predeledraj2024.in/vcnt.php">Pre D.El.Ed. Examination Form 2024</a></li>
             <br>
             <li> <a href="https://ugcnet.ntaonline.in/">NTA UGC NET JUNE Adit Form 2024</a></li>
