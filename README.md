@@ -12,16 +12,15 @@
     </div>
 <header>
     <div class="navbar">
-        <p>HOME</p>
-        <p>SYLLBUS</p>
-        <p>ADMIT CARD</p>
-        <p>RESULT</p>
+        <p> <a href="https://gjani80.github.io/EDUCATIONCUP/">HOME</a></p>
+        <p> <a href="https://gjani80.github.io/EDUCATIONCUP/">SYLLBUS</a></p>
+        <p> <a href="https://gjani80.github.io/EDUCATIONCUP/">ADMIT CARD</a></p>
+        <p> <a href="https://gjani80.github.io/EDUCATIONCUP/">RESULT</a></p>
     </div>
 </header>
 <div class="sub-title">
     <h2>Welcome to</h2>
     <h2><marquee>NO.1 Education Portal</marquee></h2>
-    <h1><a href=</a> </h1>
 </div>
 <div class="tab-section">
     <div class="box1 box">
