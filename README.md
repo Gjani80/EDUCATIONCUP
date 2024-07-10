@@ -21,7 +21,7 @@
 <div class="sub-title">
     <h2>Welcome to</h2>
     <h2><marquee>NO.1 Education Portal</marquee></h2>
-    <h1><a href="https://rajsmsa.nic.in/public/Marquee/04-07-2024-094842~SMSa%20interview.pdf">SMSA के राज्य, जिला और ब्लॉक स्तरीय पदों के लिए साक्षात्कार तिथि 24.07.2024 से 06.08.2024 की विज्ञप्ति</a> </h1>
+    <h1><a href=</a> </h1>
 </div>
 <div class="tab-section">
     <div class="box1 box">
@@ -41,10 +41,9 @@
         <h2>ADMIT CARD</h2>
         <br>
         <ul class="result-box">
+            <li> <a href="https://recruitment.rajasthan.gov.in/postdetailgetadmitcardservlet">राजस्थान पर्यवेक्षक (महिला)भर्ती2024 परीक्षा के प्रवेश पत्र</a></li>
             <li> <a href="https://online.vmou.ac.in/StudentVerify_Add.aspx">VMOU Admit card</a></li>
             <li> <a href="https://predeledraj2024.in/gEtAdMIt.php">Pre D.El.Ed Admit card 2024</a></li>
-            <li> <a href="https://rjpolice.cbt-exam.in/dac">Raj. Police Constable admit card 2023</a></li>
-            <li> <a href="https://ptetvmou2024.com">PTET Admit card 2024</a></li>
         </ul>
     </div>
     <div class="box3 box">
