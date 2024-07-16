@@ -21,7 +21,8 @@
 <div class="sub-title">
     <h2>Welcome to</h2>
     <h2><marquee>NO.1 Education Portal</marquee></h2>
-    <h2> <a href="https://predeledraj2024.in/vcnt.php#">Pre BSTC Answer Key 2024</a></h2>
+    <h2> <a href="https://predeledraj2024.in/vcnt.php">Pre BSTC Result 2024</a></h2>
+    <h2> <a href="https://cbseitms.rcil.gov.in/nvs/Index/Registration">जवाहर नवोदय विद्यालय में सत्र 2025-26 में कक्षा 6th में प्रवेश परीक्षा हेतु ऑनलाइन आवेदन शुरू</a></h2>
 </div>
 <div class="tab-section">
     <div class="box1 box">
