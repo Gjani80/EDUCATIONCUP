@@ -21,7 +21,7 @@
 <div class="sub-title">
     <h2>Welcome to</h2>
     <h2><marquee>NO.1 Education Portal</marquee></h2>
-    <h2> <a href="https://predeledraj2024.in/vcnt.php">Pre BSTC Result 2024</a></h2>
+    <h2> <a href="https://www.predeledraj2024.in/getresult.php">Pre BSTC Result 2024</a></h2>
     <h2> <a href="https://cbseitms.rcil.gov.in/nvs/Index/Registration">जवाहर नवोदय विद्यालय में सत्र 2025-26 में कक्षा 6th में प्रवेश परीक्षा हेतु ऑनलाइन आवेदन शुरू</a></h2>
 </div>
 <div class="tab-section">
@@ -29,6 +29,7 @@
         <h2>RESULT</h2>
         <br>
         <ul class="result-box">
+            <li <a href="https://www.predeledraj2024.in/getresult.php">Pre BSTC Result 2024</li> </ul>
             <li> <a href="https://www.sarkariresults.org.in/wp-content/uploads/2024/07/SSC-Constable-GD-Result-2024-List-2.pdf">SSC GD Result</a></li>
              <li> <a href="https://online.vmou.ac.in/result.aspx?encparam=1O4is1QYeChmFHQ2el0FJXbmZP5Fb7AR5seqYyaYR3p2LradyfWUbhkxcs0GSLCu5ZhZ5HTdg6TioBfvpkNjedvvoEcNElcjRlgHrA18LGqFv7qVDVc2FY4PzChedaBsbq2fe+vd2LSiZHt2/G0G+LirZ9UWJ4RenPoML328/WPOIjv2/Lh1Pq7a3oOnY9Ghi/6mYMzAWC/GMqs3xULkZmg89w8aGrCwyYriY5afrZomyAV0PPNW9jIlGd0wpdzpviYV6Uu6WPIPz+i4SGWvRIekKpjHl7xi2M3c+6vQsZY=">VMOU B.A. 1st year result declared</a> </li>
              <li> <a href="https://rsmssb.rajasthan.gov.in/Static/files/REET_LEVEL1_FINALRECOMM18062024.pdf">REET L-1 Result</a> </li>
