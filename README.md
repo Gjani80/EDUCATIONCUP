@@ -29,7 +29,7 @@
         <h2>RESULT</h2>
         <br>
         <ul class="result-box">
-            <li <a href="https://www.predeledraj2024.in/getresult.php">Pre BSTC Result 2024</li> </ul>
+            <li> <a href="https://www.predeledraj2024.in/getresult.php">Pre BSTC Result 2024</a></li>
             <li> <a href="https://www.sarkariresults.org.in/wp-content/uploads/2024/07/SSC-Constable-GD-Result-2024-List-2.pdf">SSC GD Result</a></li>   
         </ul>
     </div>
