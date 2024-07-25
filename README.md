@@ -21,7 +21,6 @@
 <div class="sub-title">
     <h2>Welcome to</h2>
     <h2><marquee>NO.1 Education Portal</marquee></h2>
-    <h2> <a href="https://www.predeledraj2024.in/getresult.php">Pre BSTC Result 2024</a></h2>
 </div>
 <div class="tab-section">
     <div class="box1 box">
