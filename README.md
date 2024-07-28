@@ -21,7 +21,7 @@
 <div class="sub-title">
     <h2>Welcome to</h2>
     <h2><marquee>NO.1 Education Portal</marquee></h2>
-    <h2> <a href="shivira Panchang 2024-25 LDP.pdf" download class="download-btn">download</a></h2>
+    <h2> <a href="shivira Panchang 2024-25 LDP.pdf" download class="download-btn">शिविरा पंचांग वर्ष 2024-25</a></h2>
 </div>
 <div class="tab-section">
     <div class="box1 box">
