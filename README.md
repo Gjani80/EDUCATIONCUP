@@ -21,6 +21,7 @@
 <div class="sub-title">
     <h2>Welcome to</h2>
     <h2><marquee>NO.1 Education Portal</marquee></h2>
+    <h2> <a href="https://rsmssb.rajasthan.gov.in/page?menuName=ApBuI6wdvnNKC6MoOgFsfXwFRsE7cKLr#">06-08-2024  Common Eligibility Test (Graduation Level) 2024 : Detailed Advertisement</a></h2>
 </div>
 <div class="tab-section">
     <div class="box1 box">
