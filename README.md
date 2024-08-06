@@ -45,6 +45,7 @@
         <h2>SYLLABUS</h2>
         <br>
         <ul class="result-box">
+            <li> <a href="https://rsmssb.rajasthan.gov.in/download_file?downloadFileId=2467">Common Eligibility Test (Graduation Level) 2024 : Scheme and Syllabus</a></li>
             <li> <a href="https://www.vmou.ac.in/sites/default/files/2024-06-web-docs-per/TimeTable.pdf">VMOU KOTA July 2023(June2024) Time Table</a></li> 
             <li>Pre BSTC 2024</li>
             <a href="pre.bstc.syllabus.pdf" download class="download-btn">download</a>
