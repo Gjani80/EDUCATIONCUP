@@ -21,7 +21,7 @@
 <div class="sub-title">
     <h2>Welcome to</h2>
     <h2><marquee>NO.1 Education Portal</marquee></h2>
-    <h2> <a href="https://rsmssb.rajasthan.gov.in/page?menuName=ApBuI6wdvnNKC6MoOgFsfXwFRsE7cKLr#">06-08-2024  Common Eligibility Test (Graduation Level) 2024 : Detailed Advertisement</a></h2>
+    <h2> <a href="https://rsmssb.rajasthan.gov.in/link_to_external_file/Adv_CET_Graduation_2024_06082024.pdf">राजस्थान CET 2024 का नोटिफिकेशन जारी</a></h2>
 </div>
 <div class="tab-section">
     <div class="box1 box">
