@@ -21,7 +21,7 @@
 <div class="sub-title">
     <h2>Welcome to</h2>
     <h2><marquee>NO.1 Education Portal</marquee></h2>
-    <h2><marquee> <a href="NVS admission form.pdf">NVS Admission Form Class 9 2025 - Navodaya Vidyalaya 9 Application Link</a></marquee></h2>
+    <h2><marquee> <a href="https://school.careers360.com/articles/jnvst-class-9-admission?action=download-exam-article-clicked_header_2830">NVS Admission Form Class 9 2025 - Navodaya Vidyalaya 9 Application Link</a></marquee></h2>
 </div>
 <div class="tab-section">
     <div class="box1 box">
