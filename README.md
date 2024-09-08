@@ -22,6 +22,7 @@
     <h2>Welcome to</h2>
     <h2><marquee>NO.1 Education Portal</marquee></h2>
     <h2><a href="https://drive.google.com/file/d/1IuK9TYHQKy9B3e6JGSCY2wbBukLowaTr/view?usp=drivesdk"><marquee>Rajasthan CET 12th</marquee></h2>
+        
 </div>
 <div class="tab-section">
     <div class="box1 box">
