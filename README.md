@@ -21,7 +21,7 @@
 <div class="sub-title">
     <h2>Welcome to</h2>
     <h2><marquee>NO.1 Education Portal</marquee></h2>
-    <h2><a href="https://drive.google.com/file/d/1IuK9TYHQKy9B3e6JGSCY2wbBukLowaTr/view?usp=drivesdk"><marquee>Rajasthan CET 12th</marquee></h2>
+    <h2> <a href="https://drive.google.com/file/d/1IuK9TYHQKy9B3e6JGSCY2wbBukLowaTr/view?usp=drivesdk">marquee>Rajasthan CET 12th</marquee></a></h2>
         
 </div>
 <div class="tab-section">
@@ -48,11 +48,7 @@
         <ul class="result-box">
             <li> <a href="https://rsmssb.rajasthan.gov.in/download_file?downloadFileId=2467">Common Eligibility Test (Graduation Level) 2024 : Scheme and Syllabus</a></li>
             <li> <a href="https://www.vmou.ac.in/sites/default/files/2024-06-web-docs-per/TimeTable.pdf">VMOU KOTA July 2023(June2024) Time Table</a></li> 
-            <li>Pre BSTC 2024</li>
-            <a href="pre.bstc.syllabus.pdf" download class="download-btn">download</a>
-            <br>
-            <li>Pre PTET 2024</li>
-            <a href="ptet.syllabus.pdf" download class="download-btn">download</a>
+            <li> <a href="https://rsmssb.rajasthan.gov.in/show_archived?menuName=fEaFReFd6jAdvM/XeaDXig==">Rajasthan Pashu parichar</a></li>
             <br>
             <li>REET 2024</li>
             <a href="reetlevel1.syllabus.pdf" download class="download-btn">download L1</a>
