@@ -44,7 +44,7 @@
         <h2>SYLLABUS</h2>
         <br>
         <ul class="result-box">
-            <li> <a href="https://rsmssb.rajasthan.gov.in/page?menuName=ApBuI6wdvnNKC6MoOgFsfXwFRsE7cKLr#">Rajasthan pashu parichar</a></li>
+            <li> <a href="https://rsmssb.rajasthan.gov.in/link_to_external_file/Ammended_Syllabus_Ani._Att_2023.pdf">Rajasthan pashu parichar</a></li>
             <li>REET 2024</li>
             <a href="reetlevel1.syllabus.pdf" download class="download-btn">download L1</a>
             <br>
