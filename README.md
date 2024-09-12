@@ -27,6 +27,7 @@
         <h2>RESULT</h2>
         <br>
         <ul class="result-box">
+            <li> <a href="https://rsmssb.rajasthan.gov.in/link_to_external_file/L91_LDC2024_Paper_1st_PriAnsKey.pdf">Clerk Grade-II/ Jr. Asst. 2024 : Primary Answer Key of Paper -IInd (K12)</a></li>
             <li> <a href="https://www.predeledraj2024.in/getresult.php">Pre BSTC Result 2024</a></li>
             <li> <a href="https://www.sarkariresults.org.in/wp-content/uploads/2024/07/SSC-Constable-GD-Result-2024-List-2.pdf">SSC GD Result</a></li>   
         </ul>
