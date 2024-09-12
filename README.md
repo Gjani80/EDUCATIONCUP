@@ -9,7 +9,6 @@
     <div class="title">
         <br>
         <h2>EDUCATION CUP</h2>
-        <img src="<img src="Picsart_24-09-08_10-23-41-569.png" alt="Your Logo" />
     </div>
 <header>
     <div class="navbar">
