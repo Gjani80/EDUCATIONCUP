@@ -21,8 +21,7 @@
 <div class="sub-title">
     <h2>Welcome to</h2>
     <h2><marquee>NO.1 Education Portal</marquee></h2>
-    <h2><marquee> <a href="https://cbseitms.rcil.gov.in/nvs/Index/Registration">ONLINE APPLICATION FOR
-ADMISSION TO CLASS VI (2025-26)</a></marquee></h2>
+    <h2><marquee> <a href="https://predeledraj2024.in/getAllot.php">Pre D.EL.Ed 3rd List alloted </a></marquee></h2>
 </div>
 <div class="tab-section">
     <div class="box1 box">
