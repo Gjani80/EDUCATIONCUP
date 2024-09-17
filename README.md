@@ -21,7 +21,8 @@
 <div class="sub-title">
     <h2>Welcome to</h2>
     <h2><marquee>NO.1 Education Portal</marquee></h2>
-    <h2><marquee> <a href="https://predeledraj2024.in/getAllot.php">Pre D.EL.Ed 3rd List alloted </a></marquee></h2>
+    <h2> <a href="https://predeledraj2024.in/getAllot.php">Pre D.EL.Ed 3rd List alloted</a></h2>
+    <h2> <a href="https://examinationservices.nic.in/examsysctet/root/Home.aspx?enc=Ei4cajBkK1gZSfgr53ImFfEytN2I3LFrLvNrMJcZJNnx30PznCVoaU9e1Vfdia78">Apply for CTET Dec-2024</a></h2>
 </div>
 <div class="tab-section">
     <div class="box1 box">
