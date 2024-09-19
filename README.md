@@ -38,6 +38,7 @@
         <h2>ADMIT CARD</h2>
         <br>
         <ul class="result-box">
+            <li> <a href="https://recruitment.rajasthan.gov.in/postdetailgetadmitcardservlet">CET Graduation Admit card</a></li>
             <li> <a href="https://online.uou.ac.in/ebed/UoUEBEDAdmitCard.aspx">Uttrakhand open university Bed admit card</a></li>
             <li> <a href="https://recruitment.rajasthan.gov.in/postdetailgetadmitcardservlet">राजस्थान पर्यवेक्षक (महिला)भर्ती2024 परीक्षा के प्रवेश पत्र</a></li>
             <li> <a href="https://online.vmou.ac.in/StudentVerify_Add.aspx">VMOU Admit card</a></li>
