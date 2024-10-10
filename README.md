@@ -22,7 +22,7 @@
     <h2>Welcome to</h2>
     <h2><marquee>NO.1 Education Portal</marquee></h2>
     <h2> <a href="https://www.uou.ac.in/announcement/2024/10/4421">B.Ed-ODL-Result-24</a></h2>
-    <h2> <a href="https://examinationservices.nic.in/examsysctet/root/Home.aspx?enc=Ei4cajBkK1gZSfgr53ImFfEytN2I3LFrLvNrMJcZJNnx30PznCVoaU9e1Vfdia78">Apply for CTET Dec-2024</a></h2>
+    <h2> <a href="https://education.rajasthan.gov.in/press-release/951/168900">अध्यापक लेवल-1 एवं लेवल-2 की पात्रता‌ परीक्षा 2025</a></h2>
 </div>
 <div class="tab-section">
     <div class="box1 box">
