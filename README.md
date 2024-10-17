@@ -9,6 +9,7 @@
     <div class="title">
         <br>
         <img src="logo.png">
+        <height=10px;>
         <h2>EDUCATION CUP</h2>
     </div>
 <header>
