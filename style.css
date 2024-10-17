@@ -73,6 +73,12 @@
     background-color: rgba(204, 183, 220, 0.858);
     text-align: center;
 }
+img {
+    height: 80px;
+    margin-right: 80rem;
+    text-align: center;
+    margin-top: 1rem;
+}
 
 
 
